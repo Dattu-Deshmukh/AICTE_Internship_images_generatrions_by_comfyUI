@@ -1,2 +1,5 @@
-# AICTE_Internship_images_generatrions_by_comfyUI
-Snap shots of generated images by comfyUI.
+### AICTE Internship on AI: Transformative Learning with TechSaksham-A Joint CSR Initiative of Microsoft and SAP  
+Snap shots of generated images from comfyUI.
+
+
+
